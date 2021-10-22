@@ -1,0 +1,22 @@
+{
+  "name": "XFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of XFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FITZ/XFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FITZ": "75883659+FITZ-ZHANG-GITHUB@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/FITZ/XFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XFoundation/Classes/**/*"
+}
