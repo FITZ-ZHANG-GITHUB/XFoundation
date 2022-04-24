@@ -1,18 +1,18 @@
 {
   "name": "XFoundation",
   "version": "0.1.0",
-  "summary": "A short description of XFoundation.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/FITZ/XFoundation",
+  "summary": "Swift extensions for Foundation.framework.",
+  "description": "The purpose of this library is to collect extensions of common foundation frameworks.",
+  "homepage": "https://github.com/FITZ-ZHANG-GITHUB/XFoundation",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "FITZ": "75883659+FITZ-ZHANG-GITHUB@users.noreply.github.com"
+    "FITZ": "fitz-zhang@mail.com"
   },
   "source": {
-    "git": "https://github.com/FITZ/XFoundation.git",
+    "git": "https://github.com/FITZ-ZHANG-GITHUB/XFoundation.git",
     "tag": "0.1.0"
   },
   "platforms": {
